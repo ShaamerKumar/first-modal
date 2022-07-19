@@ -1,4 +1,4 @@
-# modal-project
+# First practice with making modals with NETNINJA tutorials
 
 ## Project setup
 ```
